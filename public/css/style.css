@@ -1,0 +1,260 @@
+body {
+  overflow-x: hidden; /* Hide scrollbars */
+}
+.main-img {
+  background: url('/images/iamavita/background_web.png');
+  /* background-position: center center; */
+  background-repeat: repeat-y;
+  background-size: contain;
+  height: 2160px;
+  width: 100%;
+  z-index: 1;
+  position: absolute;
+}
+
+.model img{
+  z-index: 2;
+  position: absolute;
+  background-repeat: repeat; 
+  margin: 25% ; 
+}
+
+.contact-form{
+width: auto;
+opacity: 0.9;
+margin: 100% 30%;
+padding:10%;
+background-color: aliceblue;
+position:absolute;
+z-index: 2;
+border-radius: 15%;
+}
+/*Active*/
+.iamavita .screen1{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.screen1.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+
+.iamavita .screen2{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+
+.screen2.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+
+.screen2.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  margin-top: 18.5%;
+}
+
+
+.iamavita .screen3{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+
+.screen3.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+
+.screen3.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 18.5%; */
+}
+
+
+.iamavita .screen4{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+
+.screen4.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+
+.screen4.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 55.5%; */
+}
+
+
+
+.iamavita .screen5{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+.screen5.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+
+.screen5.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 74%; */
+}
+
+
+
+.iamavita .screen6{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+.screen6.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+.screen6.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 92%; */
+}
+
+
+
+.iamavita .screen7{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+.screen7.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+.screen7.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 92%; */
+}
+
+
+
+.iamavita .screen8{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+.screen8.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+.screen8.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 92%; */
+}
+
+
+
+.iamavita .screen9{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+}
+.screen9.hide{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+.screen9.active{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: inline;
+  /* margin-top: 92%; */
+}
+
+
