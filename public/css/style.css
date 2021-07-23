@@ -15,8 +15,8 @@ body {
 .model img{
   z-index: 2;
   position: absolute;
-  background-repeat: repeat; 
-  margin: 25% ; 
+  background-repeat: repeat;
+  margin: 25% ;
 }
 
 .contact-form{
@@ -27,7 +27,7 @@ padding:10%;
 background-color: aliceblue;
 position:absolute;
 z-index: 2;
-border-radius: 15%;
+border-radius: 10px;
 }
 /*Active*/
 .iamavita .screen1{
