@@ -22,6 +22,18 @@
 
     <meta property="fb:app_id" content="{{ env('FACEBOOK_CLIENT_ID') }}" />
 
+<!-- Start of ChatBot (www.chatbot.com) code -->
+<script type="text/javascript">
+    window.__be = window.__be || {};
+    window.__be.id = "6112347f8e6636000795e33f";
+    (function() {
+        var be = document.createElement('script'); be.type = 'text/javascript'; be.async = true;
+        be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
+    })();
+</script>
+<!-- End of ChatBot code -->
+
 
     <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 
