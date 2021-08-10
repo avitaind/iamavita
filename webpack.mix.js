@@ -1,7 +1,11 @@
 const mix = require('laravel-mix');
+<<<<<<< HEAD
 require('laravel-mix-scrollmagic-gsap');
 
 mix.scrollmagicGSAP();
+=======
+
+>>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
 /*
  |--------------------------------------------------------------------------
  | Mix Asset Management

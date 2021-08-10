@@ -56,10 +56,17 @@
     <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link rel="stylesheet" href="{{ asset('css/style.css') }}" />
+<<<<<<< HEAD
    
     @stack('css')
     @yield('css')
   
+=======
+
+    @stack('css')
+    @yield('css')
+
+>>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
 
 
 

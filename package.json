@@ -14,8 +14,11 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
+<<<<<<< HEAD
     },
     "dependencies": {
         "laravel-mix-scrollmagic-gsap": "^0.1.1"
+=======
+>>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
     }
 }
