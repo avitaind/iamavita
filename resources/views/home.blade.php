@@ -34,20 +34,12 @@
         {{ session()->get('message') }}
         </div>
         @endif
-<<<<<<< HEAD
         <form action="/entry/save" method="post" action="#">
-=======
-        <form action="/entry/save" method="post" action="#" class="form-group">
->>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
 
 <!-- CROSS Site Request Forgery Protection -->
 @csrf
 
-<<<<<<< HEAD
 <div class="form-group">
-=======
-{{--  <div class="form-group">
->>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
     <label>Name</label>
     <input type="text" class="form-control" name="name" id="name">
 </div>
@@ -60,7 +52,6 @@
 <div class="form-group">
     <label>Post url</label>
     <input type="text" class="form-control" name="url" id="url">
-<<<<<<< HEAD
 </div>
 <br/>
 <div class="form-group">
@@ -69,38 +60,6 @@
 </div>
         </form>
     
-=======
-</div>  --}}
-
-<div class="form-group row">
-    <label for="name" class="col-sm-4 col-form-label">Name</label>
-    <div class="col-sm-8">
-      <input type="test" class="form-control" id="name" name="name" placeholder="Name">
-    </div>
-  </div>
-  <br/>
-  <div class="form-group row">
-    <label for="email" class="col-sm-4 col-form-label">Email</label>
-    <div class="col-sm-8">
-      <input type="email" class="form-control" id="email" name="email" placeholder="Email">
-    </div>
-  </div>
-  <br/>
-  <div class="form-group row">
-    <label for="posturl" class="col-sm-4 col-form-label">Post URL</label>
-    <div class="col-sm-8">
-      <input type="text" class="form-control" id="posturl" name="url" placeholder="Post URL">
-    </div>
-  </div>
-
-
-<br/>
-<div class="form-group">
-<input type="submit" class="form-control" name="send" value="Submit">
-</div>
-</form>
-
->>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
         </div>
 
     </div>
@@ -120,10 +79,6 @@
 @section('js')
 
     <script type="text/javascript" src="{{ asset('js/script.js') }}"></script>
-<<<<<<< HEAD
   
-=======
-
->>>>>>> d476bcc85577485d7ae783a8d52b455df6b06570
 
 @endsection
